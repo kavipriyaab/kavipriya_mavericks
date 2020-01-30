@@ -1,3 +1,5 @@
 Apple
 orange
 Banana
+new fruit 
+new fruit
